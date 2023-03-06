@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "bucketName": "swdemobuck01",
+        "keyName": "person-data.csv",
+        "AWS_ACCESS_KEY_ID":"YOUR_KEY_ID",
+        "AWS_SECRET_ACCESS_KEY":"YOUR_SECRET_KEY",
+        "regionName": "ap-southeast-2"
+    }
+}

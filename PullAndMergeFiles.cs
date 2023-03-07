@@ -35,6 +35,8 @@ namespace samplefunc01
         /// <summary>
         /// Read an object's data from an Amazon S3 bucket.
         ///
+        /// Essentially the .NET sample from here: https://docs.aws.amazon.com/AmazonS3/latest/userguide/download-objects.html
+        ///
         /// </summary>
         /// <param name="bucketName">The name of the bucket containing the object.</param>
         /// <param name="keyName">The name of the object.</param>
